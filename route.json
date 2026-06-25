@@ -1,5 +1,5 @@
 {
-    "Name": "vpnconnect",
+    "Name": "routing",
     "GlobalProxy": "true",
     "RemoteDNSType": "DoH",
     "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",

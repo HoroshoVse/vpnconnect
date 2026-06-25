@@ -1,6 +1,6 @@
 {
     "Name": "vpnconnect",
-    "GlobalProxy": "true",
+    "GlobalProxy": true,
     "RemoteDNSType": "DoH",
     "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",
     "RemoteDNSIP": "1.1.1.1",
@@ -20,6 +20,6 @@
     "BlockSites": ["geosite:category-ads-all"],
     "BlockIp": [],
     "DomainStrategy": "IPIfNonMatch",
-    "FakeDNS": "false",
-    "UseChunkFiles": "true"
+    "FakeDNS": false,
+    "UseChunkFiles": true"
 }

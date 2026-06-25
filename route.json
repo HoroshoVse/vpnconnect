@@ -1,5 +1,5 @@
 {
-    "Name": "vpnconnct",
+    "Name": "vpnconnect",
     "GlobalProxy": "true",
     "RemoteDNSType": "DoH",
     "RemoteDNSDomain": "https://dns.google/dns-query",

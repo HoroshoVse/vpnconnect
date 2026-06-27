@@ -16,7 +16,7 @@
     "DirectSites": ["geosite:category-ru"],
     "DirectIp": ["geoip:ru", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16", "169.254.0.0/16", "224.0.0.0/4", "255.255.255.255"],
     "ProxySites": [],
-    "ProxyIp": [89.169.38.121],
+    "ProxyIp": ["89.169.38.121/32"],
     "BlockSites": [],
     "BlockIp": [],
     "DomainStrategy": "IPIfNonMatch",

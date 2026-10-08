@@ -13,7 +13,7 @@
         "cloudflare-dns.com": "1.1.1.1",
         "dns.google": "8.8.8.8"
     },
-    "DirectSites": ["geosite:category-ru", "tg.wl.proxy.msg.im"],
+    "DirectSites": ["geosite:category-ru", "tg.wl.proxy.msg.im", "tg.wl.web.msgx.im", "tg.proxy.msgx.im", "tg.web.msgx.im"],
     "DirectIp": ["geoip:ru", "10.0.0.0/8", "192.168.0.0/16", "169.254.0.0/16", "224.0.0.0/4", "255.255.255.255"],
     "ProxySites": [],
     "ProxyIp": ["89.169.38.121/32", "176.108.248.240/32", "155.212.187.141/32"],
